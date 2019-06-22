@@ -1,1 +1,7 @@
 devops isa not tool
+git init
+git status
+git add file
+git commit -m "messages"
+git remote add origin "git repo path"
+git push origin master
